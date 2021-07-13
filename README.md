@@ -21,7 +21,7 @@ Flags:
 This assumes you have valid AWS credentials to your account. Ensure that your ~/.aws/credentials is set up. Follow https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html to get started.
 
 ## Usage
-Run the binary (example with *infrastructureci* account)
+Run the binary
 ```
 make build
 cd bin
